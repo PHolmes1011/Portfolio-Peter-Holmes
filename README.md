@@ -1,13 +1,16 @@
 # Portfolio-Peter-Holmes
 ###### A public repository for demonstrating some code and projects I've worked on.
 
-### About Me
+## This Repository
+This repository shows off some of the projects I've worked on, each with their own branch. The year prefix refers to the year of university I worked on the project.
+
+## About Me
 My name’s Peter Holmes, a current Sheffield Hallam Student hoping to get into the software engineering world.
 
-
+I've studied a wide range of different subjects gaining experience in DirectX 11 & 12, PlayStation 4 development, Unity and Unreal. Working on many great projects either as part of a team or by myself.
 
 ### What I’m Doing
-As I said prior, I’m studying at Sheffield Hallam doing computer science for games. This has allowed me to learn a wide array of useful and varied subjects. I’ve just finished my second year, scoring a high 2i bordering on a 1st in my subjects.
+As I said prior, I’m studying at Sheffield Hallam doing computer science for games. This has allowed me to learn a wide array of useful and varied subjects. I’m soon to finish my third year, I'm projected to recieve a strong 2i.
 
 ### During the first year I:
 
