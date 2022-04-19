@@ -40,7 +40,7 @@ As I said prior, I’m studying at Sheffield Hallam doing computer science for g
 
 - I made a light weight game engine for the PlayStation 4.
 
-- I worked as part of a team to develop a potential port of a game in cooperation with Sumo Digital Academy.
+- I worked as part of a team to develop a Vulkan port of Zool: Redimentioned in cooperation with Sumo Digital Academy.
 
 - I expanded on my light weight PlayStation 4 engine to add AI agents to a scene.
 
