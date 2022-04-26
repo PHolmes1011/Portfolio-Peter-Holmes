@@ -1,5 +1,9 @@
-# Portfolio-Peter-Holmes
+# Peter Holmes Portfolio
 ###### A public repository for demonstrating some code and projects I've worked on.
+
+#### Navigation:
+- [Projects](projects.md)
+- [CV](CV.md)
 
 ## This Repository
 This repository shows off some of the projects I've worked on, each with their own branch. The year prefix refers to the year of university I worked on the project.
