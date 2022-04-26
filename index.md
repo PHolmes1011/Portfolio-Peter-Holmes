@@ -2,6 +2,7 @@
 ###### A public repository for demonstrating some code and projects I've worked on.
 
 #### Navigation:
+- Index
 - [Projects](projects.md)
 - [CV](CV.md)
 
