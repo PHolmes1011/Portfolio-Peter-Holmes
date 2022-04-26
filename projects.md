@@ -14,9 +14,9 @@ The team was composed of six programmers, including myself, none of whom had don
 
 ## Lightweight PlayStation 4 Engine
 
-This was another amazing opportunity I got thanks to enrolling at Sheffield Hallam, not every university is accredited for Play Station 4 development. In this project I got to delve into console development making a light weight 3D game engine that could load models and textures, transform them, and had basic ambient and directional lighting. Functionality had to be researched from official Sony documention as of course none of this information was available on Stack Overflow.
+This was another amazing opportunity I got thanks to enrolling at Sheffield Hallam, not every university is accredited for PlayStation 4 development. In this project I got to delve into console development making a light weight 3D game engine that could load models and textures, transform them, and had basic ambient and directional lighting. Functionality had to be researched from official Sony documention as of course none of this information was available on Stack Overflow.
 
-I really enjoyed my time working on the Play Station as it was fun, challenging and gave me a real sense that I was doing something special. As in, it required more than just downloading some libraries and working on it in my bedroom. It made me feel professional and optimisitc for the future.
+I really enjoyed my time working on the PlayStation as it was fun, challenging and gave me a real sense that I was doing something special. As in, it required more than just downloading some libraries and working on it in my bedroom. It made me feel professional and optimisitc for the future.
 
 ## Project Simulation
 
