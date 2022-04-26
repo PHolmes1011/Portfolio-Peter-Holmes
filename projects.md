@@ -24,9 +24,13 @@ I really enjoyed my time working on the Play Station as it was fun, challenging 
 
 This was the completed game made with a team of designers and artists as well as another programmer. We all had to work together, in a professional scenario, to develop a game of our choosing. All the while making sure we held scrum meetings, plotted and planned our progress as well as proper version control. This was an absolute pleasure to work on, getting a taste of the scene I’d like to be a part of.
 
+[Project Simulation in-editor screenshot](/Images/Original/HighresScreenshot00016.png)
+
 The game we all agreed we wanted to make was a first person movement based melee game, in the Unreal Engine. The art style would be simple 3D meshes with bold contrasting colours, like something akin to the game ‘Super Hot’ but with fast and fluid gameplay. The player has to run, jump and cut his way through the hordes of robotic foes which are there to destroy the very simulation they are a part of.
 
 As previously mentioned, I was one of the two programmers on this project. We worked together, giving each-other tasks at meetings and collaborating to solve problems and make the game all we’d hoped it could be. For instance, while he did much of the movement mechanics I did much of the work for the game’s enemies. Getting the models, playing the animations, coding the AI and making them hunt and attack the player.
+
+[Project Simulation in-editor screenshot](/Images/Original/HighresScreenshot00010.png)
 
 We all worked great together as a team and the end result of our combined efforts was an amazing game worthy of a 98 / 100, being the highest marked game of the year and even all previous submissions.
 
