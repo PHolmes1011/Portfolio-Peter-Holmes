@@ -54,7 +54,7 @@ As I said prior, I’m studying at Sheffield Hallam doing computer science for g
 
 This graph shows the number of all the different grades I received throughout my time at Sheffield Hallam university.
 
-![A pie chart showing my grades](/Images/Original/gradeGraph.jpg)
+![A pie chart showing my grades](/Images/Original/gradeGraph.png)
 
 The grade boundaries were:
 
