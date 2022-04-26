@@ -1,6 +1,10 @@
 # My Projects
 ###### My list of projects I've worked on.
 
+#### Navigation:
+- [Index](index.md)
+- [CV](CV.md)
+
 ## Zool: Redimentioned Port
 
 
