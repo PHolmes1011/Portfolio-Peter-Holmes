@@ -3,6 +3,7 @@
 
 #### Navigation:
 - [Index](index.md)
+- Projects
 - [CV](CV.md)
 
 ## Zool: Redimentioned Port
