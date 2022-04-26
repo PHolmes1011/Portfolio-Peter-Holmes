@@ -36,7 +36,7 @@ We all worked great together as a team and the end result of our combined effort
 
 ### The Game's Trailer
 
-![Video Link](https://youtu.be/WROYKal0hLY)
+[Video Link](https://youtu.be/WROYKal0hLY)
 
 ## Planetary Plugin
 
@@ -48,7 +48,7 @@ As it's for game developers, it needs to be accessable for game developers. The 
 
 I also made a video for it and have included that below too
 
-![Video Link](https://youtu.be/ieMTJanp9xQ)
+[Video Link](https://youtu.be/ieMTJanp9xQ)
 
 ## DirectX 12 Explanatory Videos
 
@@ -64,13 +64,13 @@ Video Link
 
 A short video explaining how point and spot lights are calculated and coded within DirectX 12
 
-![Video Link](https://youtu.be/GGk-jnKYpj0)
+[Video Link](https://youtu.be/GGk-jnKYpj0)
 
 ### Video 3 - Mesh Texturing
 
 A short video covering the basics of UV coordinates and their implementation in DirectX 12
 
-![Video Link](https://youtu.be/26SZr1-oRTo)
+[Video Link](https://youtu.be/26SZr1-oRTo)
 
 ### And many more!
 
