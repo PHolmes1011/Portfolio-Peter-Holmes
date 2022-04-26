@@ -27,3 +27,8 @@ This was a family run business, based on Hasland’s Eastwood Park, operating th
 
 ## PERSONAL
 I'm cheerful, confident and well-motivated. I enjoy working with friends and by myself on projects and hobbies in my free time, including walking and cycling in the peak district. I also greatly enjoy getting out and about, whether it be for pleasure or for work. Furthermore I became a student rep at my university, making sure to help my fellow classmates and get their feedback on the course and the amenities the university provides. The experience gained from this would be a tremendous use to any job I undertake in future. While being a student I have also lived by myself and as a result gained independence and responsibility.
+
+
+#### Be sure to get in touch!
+#### holmespeter12@gmail.com
+
