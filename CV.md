@@ -1,6 +1,10 @@
 # Peter Francisco Holmes
 ###### holmespeter12@gmail.com
 
+#### Navigation:
+- [Index](index.md)
+- [Projects](projects.md)
+
 ## SKILLS
 I have a wide range of personal skills, including resilience, determination, a flexible can-do attitude and enjoy new challenges and opportunities. Experience in communication, public speaking, employability and teamwork. I have great time-keeping skills and have proved myself to be a thoroughly reliable student both at work and university. Through my course I have gained three years experience in C++,  DX11, DX12, PS4 Development and Vulkan, and the maths used to create and compute graphical effects. As well as working with Unreal and Unity. Finally, learning to implement AI in games using modern methods. While developing all these projects, either as a team or by myself, I’ve made full use of source control tools like Git and GitHub desktop.  
 
