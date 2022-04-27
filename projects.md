@@ -66,7 +66,7 @@ This was a project undertaken at the beginning of my third year, for the purpose
 
 A short video outlining the maths and code behind implementing directional and ambient light in DirectX 12
 
-Video Link
+[Video Link](https://youtu.be/HZWYqXVpYc0)
 
 ### Video 2 - Point and Spot Lighting
 
