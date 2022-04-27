@@ -6,9 +6,6 @@
 - [Projects](projects.md)
 - [CV](CV.md)
 
-## This Repository
-This repository shows off some of the projects I've worked on, each with their own branch. The year prefix refers to the year of university I worked on the project.
-
 ![A picture of myself](/Images/Edited/PXL_20220418_125244626.jpg)
 
 ## About Me
