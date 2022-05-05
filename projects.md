@@ -8,13 +8,21 @@
 
 ## Zool: Redimentioned Port
 
+![Zool's main menu](/Images/Original/MainMenu.png)
+
 This was a port of the already released game Zool: Redimentioned to Vulkan from DirectX 11. This was sanctioned and overseen by Jacob Habgood from Sumo Digital Academy, and was a great opportunity to get professional experience workong on a challenging and engaging project, and I couldn't be more thankful for all the people at Sumo and Sheffield Hallam for making it happen.
 
+![Zool gameplay](/Images/Original/Gameplay1.png)
+
 The team was composed of six programmers, including myself, none of whom had done Vulkan before. We had to learn and research as we went to achieve a succeful prototpye port. If Sumo Digital want to take this further and invest more in the project, me and the rest of the team would gladly carry it on.
+
+![One of the bossfights in Zool](/Images/Original/Gameplay2.png)
 
 ## Lightweight PlayStation 4 Engine
 
 This was another amazing opportunity I got thanks to enrolling at Sheffield Hallam, not every university is accredited for PlayStation 4 development. In this project I got to delve into console development making a light weight 3D game engine that could load models and textures, transform them, and had basic ambient and directional lighting. Functionality had to be researched from official Sony documention as of course none of this information was available on Stack Overflow.
+
+![A screenshot from my PS4 engine](/Images/Original/PS4Engine.png)
 
 I really enjoyed my time working on the PlayStation as it was fun, challenging and gave me a real sense that I was doing something special. As in, it required more than just downloading some libraries and working on it in my bedroom. It made me feel professional and optimisitc for the future.
 
@@ -58,7 +66,7 @@ This was a project undertaken at the beginning of my third year, for the purpose
 
 A short video outlining the maths and code behind implementing directional and ambient light in DirectX 12
 
-Video Link
+[Video Link](https://youtu.be/HZWYqXVpYc0)
 
 ### Video 2 - Point and Spot Lighting
 
