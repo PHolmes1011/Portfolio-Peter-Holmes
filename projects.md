@@ -32,11 +32,11 @@ For a seperate project I used this PS4 engine to develop a simple AI, taking the
 
 Some pictures of the rabbit AI in motion:
 
-![Rabbit AI Screenshot](/Images/Original/Screenshot 2022-05-01 122647.png)
+![Rabbit AI Screenshot](/Images/Original/Screenshot_2022-05-01_122647.png)
 
-![Rabbit AI Screenshot](/Images/Original/Screenshot 2022-05-01 122744.png)
+![Rabbit AI Screenshot](/Images/Original/Screenshot_2022-05-01_122744.png)
 
-![Rabbit AI Screenshot](/Images/Original/Screenshot 2022-05-01 122935.png)
+![Rabbit AI Screenshot](/Images/Original/Screenshot_2022-05-01_122935.png)
 
 ## Project Simulation
 
