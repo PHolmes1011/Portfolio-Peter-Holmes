@@ -26,6 +26,18 @@ This was another amazing opportunity I got thanks to enrolling at Sheffield Hall
 
 I really enjoyed my time working on the PlayStation as it was fun, challenging and gave me a real sense that I was doing something special. As in, it required more than just downloading some libraries and working on it in my bedroom. It made me feel professional and optimisitc for the future.
 
+### Rabbit AI
+
+For a seperate project I used this PS4 engine to develop a simple AI, taking the form of a rabbit or rabbits which roam around and search for food and water based on which they need most. Each rabbit uses a Monte Carlo search to find what it needs, and the nodes used to search through are dynamically generated and can be customised. Changing how far apart the nodes are and where the nodes spawn.
+
+Some pictures of the rabbit AI in motion:
+
+![Rabbit AI Screenshot](/Images/Original/Screenshot 2022-05-01 122647.png)
+
+![Rabbit AI Screenshot](/Images/Original/Screenshot 2022-05-01 122744.png)
+
+![Rabbit AI Screenshot](/Images/Original/Screenshot 2022-05-01 122935.png)
+
 ## Project Simulation
 
 ### About The Game
