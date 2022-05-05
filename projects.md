@@ -10,7 +10,7 @@
 
 ![Zool's main menu](/Images/Original/MainMenu.png)
 
-This was a port of the already released game Zool: Redimentioned to Vulkan from DirectX 11. This was sanctioned and overseen by Jacob Habgood from Sumo Digital Academy, and was a great opportunity to get professional experience workong on a challenging and engaging project, and I couldn't be more thankful for all the people at Sumo and Sheffield Hallam for making it happen.
+This was a port of the already released game Zool: Redimentioned to Vulkan from DirectX 11. This was sanctioned and overseen by Jacob Habgood from Sumo Digital Academy, and was a great opportunity to get professional experience working on a challenging and engaging project, and I couldn't be more thankful for all the people at Sumo and Sheffield Hallam for making it happen.
 
 ![Zool gameplay](/Images/Original/Gameplay1.png)
 
