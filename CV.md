@@ -11,11 +11,16 @@ I have a wide range of personal skills, including resilience, determination, a f
 
 ## EDUCATION
 #### Sheffield Hallam University, Sheffield - Undergraduate
-##### October 2019 - PRESENT
-I am nearing the end of my three year course and greatly enjoyed gaining an in-depth understanding into not only how games function but computers as a whole. While here I worked on several interesting projects, the two I am most proud of would be ‘Project Simulation’ and a Vulkan port of Zool: Redimentioned made in collaboration with Sumo Digital Academy. Both were made in collaboration with other students. Project Simulation was a first person melee game made in Unreal and was graded 98 / 100, doing so well the team was asked to show it off at the end of year fair. The Vulkan port for Zool was a great chance to gain experience and work with a real company in a semi-professional scenario on an existing code base.
+##### October 2019 - June 2022
+##### 1st Class Honours Degree
+This highly enjoyable three year course gave me an in-depth understanding into not only how games function but computers as a whole. While here I worked on several interesting projects, the two I am most proud of would be ‘Project Simulation’ and a Vulkan port of Zool: Redimentioned made in collaboration with Sumo Digital Academy. Both were made in collaboration with other students. Project Simulation was a first person melee game made in Unreal and was graded 98 / 100. Both did so well they were shown off at their respective end of year fairs, Zool was also shown off at the Games Republic event in York, coming second place for Games Technology. It was also nominated for the TIGA “Excellence in University/College – Industry Collaboration” award by our lecturer. The Vulkan port for Zool was a great chance to gain experience and work with a real company in a semi-professional scenario on an existing code base.
+
 #### Brookfield Community School, Chesterfield - A-level
 ##### September 2017 - July 2019
-While studying here I performed to the best of my ability, ensuring I was always on time and my homework was completed to the same calibre as my favourable classwork. Here I received distinctions from my teachers for always involving myself in lessons and engaging with the learning material. Here I achieved three A-levels grade C.
+##### Three Grade Cs
+While studying here I performed to the best of my ability, ensuring I was always on time and my homework was completed to the same calibre as my favourable classwork. Here I received distinctions from my teachers for always involving myself in lessons and engaging with the learning material. 
+
+
 
 ## EXPERIENCE
 #### Cromford Mills Cafés 
