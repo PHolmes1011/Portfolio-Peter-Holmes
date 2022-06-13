@@ -9,14 +9,14 @@
 ![A picture of myself](/Images/Edited/PXL_20220418_125244626.jpg)
 
 ## About Me
-My name’s Peter Holmes, a current Sheffield Hallam Student hoping to get into the software engineering world.
+My name’s Peter Holmes, I'm a recent Sheffield Hallam graduate hoping to get into the software engineering world.
 
 I've studied a wide range of different subjects gaining experience in DirectX 11 & 12, PlayStation 4 development, Unity and Unreal. Working on many great projects either as part of a team or by myself.
 
 ![Another picture of myself](/Images/Edited/PXL_20220418_135309084.jpg)
 
 ### What I’m Doing
-As I said prior, I’m studying at Sheffield Hallam doing computer science for games. This has allowed me to learn a wide array of useful and varied subjects. I’m soon to finish my third year, I'm projected to recieve a strong 2i.
+I'm currently looking for roles in the games industry after graduating from Sheffield Hallam doing computer science for games, where I achieved a 1st class honours degree. This has allowed me to learn a wide array of useful and varied subjects.
 
 ### During the first year I:
 
