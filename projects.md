@@ -10,7 +10,7 @@
 
 ![Zool's main menu](/Images/Original/MainMenu.png)
 
-This was a port of the already released game Zool: Redimentioned to Vulkan from DirectX 11. This was sanctioned and overseen by Jacob Habgood from Sumo Digital Academy, and was a great opportunity to get professional experience workong on a challenging and engaging project, and I couldn't be more thankful for all the people at Sumo and Sheffield Hallam for making it happen.
+This was a port of the already released game Zool: Redimentioned to Vulkan from DirectX 11. This was sanctioned and overseen by Jacob Habgood from Sumo Digital Academy, and was a great opportunity to get professional experience working on a challenging and engaging project, and I couldn't be more thankful for all the people at Sumo and Sheffield Hallam for making it happen.
 
 ![Zool gameplay](/Images/Original/Gameplay1.png)
 
@@ -32,11 +32,11 @@ For a seperate project I used this PS4 engine to develop a simple AI, taking the
 
 Some pictures of the rabbit AI in motion:
 
-![Rabbit AI Screenshot](/Images/Original/Screenshot 2022-05-01 122647.png)
+![Rabbit AI Screenshot](/Images/Original/Screenshot_2022-05-01_122647.png)
 
-![Rabbit AI Screenshot](/Images/Original/Screenshot 2022-05-01 122744.png)
+![Rabbit AI Screenshot](/Images/Original/Screenshot_2022-05-01_122744.png)
 
-![Rabbit AI Screenshot](/Images/Original/Screenshot 2022-05-01 122935.png)
+![Rabbit AI Screenshot](/Images/Original/Screenshot_2022-05-01_122935.png)
 
 ## Project Simulation
 
