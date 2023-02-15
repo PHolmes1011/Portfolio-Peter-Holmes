@@ -29,12 +29,14 @@ Here I studied MSc High Performance Graphics, learning some of the more advanced
 ##### Sheffield Hallam University, Sheffield - Undergraduate
 ###### *October 2019 - June 2022*
 **1st Class Honours Degree**
+
 Here I did the highly enjoyable Comp Sci for Games course. I worked on several interesting projects, ‘Project Simulation’ and a Vulkan port of Zool: Redimentioned made in collaboration with Sumo Digital Academy being good examples.
 Project Simulation was a first person melee game made in Unreal. I worked on some of the movement features along with the enemies and their AI for the rest of the six week project. While on Zool I spent most of my time handling buffers and making sure shaders and descriptors were set up correctly for images, among other things.
 Both nominated at their respective end of year fairs. Zool came second place for Games Technology, at the Games Republic event in York. It was also nominated for the TIGA “Excellence in University/College – Industry Collaboration” award. 
 ##### Brookfield Community School, Chesterfield - A-level
 ###### September 2017 - July 2019
 **Three Grade Cs**
+
 Here I learned the broad strokes of Computer Science. Such as: the basics of programming using Python, networking, SQL, databases, computer hardware, binary maths, logic gates and much more.
 
 ## EMPLOYMENT & VOLUNTEERING
