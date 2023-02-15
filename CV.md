@@ -19,6 +19,7 @@ I'm cheerful, confident and well-motivated. I have always enjoyed learning how t
 - **Game AI:** Implementing AI using behaviour trees and the environment query system in Unreal and a rabbit AI in my PS4 engine, that made use of Monte Carlo to search an unknown space.
 - **Source Control:** While developing all these projects, either as a team or by myself, I’ve made full use of source control tools like Git and GitHub desktop. 
 - **Web Development:** I’ve done some light web development using Visual Studio Code in the past with HTML5, CSS and a small amount of JavaScript, though I mostly used C# for page interactivity.
+
 #### Personal
 I have a wide range of personal skills, including resilience, determination, a flexible can-do attitude and enjoy new challenges and opportunities. Experience in communication, public speaking, employability and teamwork. I have great time-keeping skills and have proved myself to be a thoroughly reliable student both at work and university.
 
