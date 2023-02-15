@@ -9,14 +9,16 @@
 ![A picture of myself](/Images/Edited/PXL_20220418_125244626.jpg)
 
 ## About Me
-My name’s Peter Holmes, I'm a recent Sheffield Hallam graduate hoping to get into the software engineering world.
+My name’s Peter Holmes, I'm in my early 20s and am greatly enthusiastic about computer science and software development. I studied at Sheffield Hallam on the computer science for games course, with the end goal of getting a job in the games industry and of course because it sounded fun. I was soon shown I had made the right decision, I loved learning about computer and console architecture, along with programming and software development techniques. Gaining experience in DirectX 11 & 12, PlayStation 4 development, Unity and Unreal. Not to mention being surrounded with cool, interesting and likeminded people. Some of whom I'd develop projects with as a part of the course and extracurricular. It really showed that this was the future for me and something I could be passionate about.
 
-I've studied a wide range of different subjects gaining experience in DirectX 11 & 12, PlayStation 4 development, Unity and Unreal. Working on many great projects either as part of a team or by myself.
+I then went on to study a masters at the University of Leeds in high performancee computer graphics, however I found it didn't capture the same enjoyment as I'd experienced during my time at Sheffield, so despite learning some interesting things I sought out other opportunities. 
 
 ![Another picture of myself](/Images/Edited/PXL_20220418_135309084.jpg)
 
 ### What I’m Doing
-I'm currently looking for roles in the games industry after graduating from Sheffield Hallam doing computer science for games, where I achieved a 1st class honours degree. This has allowed me to learn a wide array of useful and varied subjects.
+This leads on to what I'm doing now. I'm looking for jobs in the games industry and in software engineering as a whole. In the meantime, I'm keeping my skills sharp developing a game in Unreal Engine 5 and working on my 3D Vulkan renderer which I one day plan to use for a simple game.
+
+## Stuff I've Done
 
 ### During the first year I:
 
@@ -69,6 +71,16 @@ The grade boundaries were:
 - 60% - 69% = 2i
 
 - +70% = 1st
+
+### At Leeds I:
+
+- Learned about solving non linear equations in MATLAB using Newton's method, Secant method and a few others. 
+
+- Learned about interpolation and animation using normal and inverse kinematics, making a basic BVH file viewer.
+
+- Learned about the storage, processing and creation of 2D and 3D meshes. Creating a basic triangle soup reader.
+
+- Learned about raytracing, making a raytrace renderer in OpenGL.
 
 #### Be sure to get in touch!
 #### holmespeter12@gmail.com
