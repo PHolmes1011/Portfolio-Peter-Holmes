@@ -16,7 +16,7 @@ I then went on to study a masters at the University of Leeds in high performance
 ![Another picture of myself](/Images/Edited/PXL_20220418_135309084.jpg)
 
 ### What I’m Doing
-This leads on to what I'm doing now. I'm looking for jobs in the games industry and in software engineering as a whole. In the meantime, I'm keeping my skills sharp developing a game in Unreal Engine 5 and working on my 3D Vulkan renderer which I one day plan to use for a simple game.
+This leads on to what I'm doing now. I'm looking for jobs in the games industry and in software engineering as a whole. In the meantime, I'm keeping my skills sharp developing projects in Unreal Engine 5. I have also been developing an upgrade to this GitHub site using the skills I have learned at 20i and my own study. Finally, I have been working on a bit of a passion project of mine, making maps in the Source level editor Hammer. 
 
 ## Stuff I've Done
 
